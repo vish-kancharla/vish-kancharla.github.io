@@ -17,6 +17,7 @@
   {%- endif %}
   <style>
   {%- include "style.css.html" ignore missing -%}
+  <link rel="stylesheet" href="{{ get_url(path="stylesmain.css", trailing_slash=false) | safe }}">
   </style>
   {% include "custom_head.html" ignore missing -%}
 </head>

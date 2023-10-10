@@ -1,23 +1,17 @@
 +++
 +++
-# A match made in heaven
+# 👋 Hey
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+<div class="home-container">
 
-Zola Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+  <div class="home-content">
 
-[Go to the original bear blog](https://bearblog.dev/).
+I'm Vishal. I a Master of Science in Computer Science student at [University of Minnesota](https://cse.umn.edu/cs). Before starting my masters, I worked for a couple of years at [Cisco](https://www.cisco.com/), where I developed tools that automated several mundane tasks on Oracle databases and helped scale the number of da
 
----
+  </div>
 
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
+  <div class="home-image">
+    <img src="/images/headshot.png" alt="Profile Picture" class="" />
+  </div>
+</div>
 
-**Use this theme, and find out!**
-
-Made with 💚 by [Alan Pearce](https://alanpearce.eu).
-
----
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
