@@ -23,12 +23,12 @@ date_format="%d %b, %Y"
 webserver_sends_csp_headers=true
 
 [[extra.main_menu]]
-name = "Bear"
-url = "@/bear.md"
+name = "Projects"
+url = "@/projects.md"
 
 [[extra.main_menu]]
-name = "Zola"
-url = "@/zola.md"
+name = "Work"
+url = "@/work.md"
 
 [[extra.main_menu]]
 name = "Blog"
