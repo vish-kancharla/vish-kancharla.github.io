@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://vish-kancharla.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://vish-kancharla.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://vish-kancharla.github.io/blog/markdown-syntax/</loc>
+        <lastmod>2024-11-06</lastmod>
+    </url>
+    <url>
+        <loc>https://vish-kancharla.github.io/categories/</loc>
+    </url>
+    <url>
+        <loc>https://vish-kancharla.github.io/projects/</loc>
+    </url>
+    <url>
+        <loc>https://vish-kancharla.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://vish-kancharla.github.io/tags/markdown/</loc>
+    </url>
+    <url>
+        <loc>https://vish-kancharla.github.io/tags/syntax/</loc>
+    </url>
+    <url>
+        <loc>https://vish-kancharla.github.io/til/</loc>
+    </url>
+</urlset>
