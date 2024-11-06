@@ -1,12 +1,20 @@
 +++
 +++
+
 # 👋 Hey
 
 <div class="home-container">
 
   <div class="home-content">
 
-I'm Vishal. I am a Master of Science in Computer Science student at [University of Minnesota](https://cse.umn.edu/cs). Before starting my masters, I worked for a couple of years at [Cisco](https://www.cisco.com/), where I developed tools that automated several operational tasks on Oracle databases which helped our team in scaling up tehe number of databases we managed. During my master's studies, I am concentrating on Machine Learning.
+I'm Vishal, currently nerding out on my Master of Science in Computer Science at the [University of Minnesota](https://cse.umn.edu/cs). Before my masters, I spent a couple years at [Cisco](https://www.cisco.com/) where I built automation tools that automated Oracle database tasks - these tools helped scale the number of databases under our management. These days, I'm diving into Machine Learning, with a focus on Graph Neural Networks. But from time to time I also have fun exploring all the different corners of CS 😄!
+
+If you'd like to get in contact, [send me an email](mailto:vishalkancharla1234@gmail.com).
+
+
 
 
 </div>
+
+## Recent Posts: 
+
