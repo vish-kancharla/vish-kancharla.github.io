@@ -2,18 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 'न कदापि खंडित: (Never Broken)'
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: proc_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,13 +17,18 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey, I'm Vishal! I'm currently diving into my **MS in Computer Science** at the [University of Minnesota](https://cse.umn.edu/cs). Before that, I spent a couple of years at [Cisco](https://www.cisco.com/) as a **Software Engineer (Site Reliability)**, where I built **self-service web applications** that automated Oracle database tasks—cutting manual effort, reducing execution time, and scaling the number of databases under the team's management. I also maintained and optimized the team's **development infrastructure**, improving **CI/CD pipelines**, managing **Apache web servers**, and in-house **Sentinel Redis**.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At UMN, I'm exploring **Machine Learning**, with a focus on **Graph Neural Networks**. Beyond coursework in **Cloud Computing, NLP, and AI**, I also served as a **Teaching Assistant** for [Computational Biology](https://sites.google.com/umn.edu/biol3004/research-areas/computational-microbiology?authuser=0) and [Machine Learning for Healthcare](https://yoga-varatha.github.io/ml4health-umn/).  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I enjoy working across the stack, from **ML** to **cloud infrastructure** and **web developement**. If you're curious about what I'm working on, check out my **[Projects](projects)** or **[Blogs](blog)** tab—where I document my latest work, share insights from my **CS journey**, and sometimes write about what I’ve learned that day.  
+
+And when I'm not exploring different corners of CS, you'll probably find me picking up a non-fiction book 😄  
+
+
+

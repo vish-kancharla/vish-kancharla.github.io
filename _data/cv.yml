@@ -1,97 +1,48 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science, Computer Science
+      institution: University of Minnesota, Twin Cities
+      year: 2023-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "<i>Relevant Coursework: Cloud Computing, Advanced Machine Learning, Natural Language Processing, Software Engineering and Artificial Intelligence.</i>"
+  
+    - title: Bachelor of Technology, Computer Science and Engineering
+      institution: Manipal Institute of Technology, Manipal
+      year: 2017-2021
       description:
-        - Description 1.
-        - Description 2.
+        - "<i>Relevant Coursework: Data Structures and Algorithms, Operating Systems, Computer Networks, Database Management Systems, Distributed Systems and Object Oriented Programming.</i>"
+        
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Engineer (Site Reliability Engineer)
+      institution: Cisco Systems, Bangalore, India
+      year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Led the development of a self-service application using Python and JavaScript that automates database administrator steps performed before and after OS is upgraded/patched on 300+ on-prem hosts. Incorporated various workflows for ERP and FMW Oracle databases. Eliminated manual efforts and brought down the overall time consumed by 40%.
+        - Developed dynamic backend APIs for more accessible analytics and visualization to understand various metrics agreed upon in the service level agreement. The dashboard enables real-time access to key performance indicators such as incident resolution times and provides insights on previously cluttered data.
+        - Spearheaded enhancement of three applications to accommodate the new multitenant architecture in Oracle databases. Maintained Apache, Redis, Flask, and corresponding CI/CD pipelines and infrastructure that accelerated the team’s deployments.
+    - title: Technical Intern
+      institution: Cisco Systems, Bangalore, India
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Automated the patching of 800+ Oracle databases. Pluggable databases were migrated from the source to the pre-patched target container database, reducing system downtime from 2 hours to near zero for read operations while maintaining millisecond-level interruptions for write operations
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Summer Research Intern
+      institution: Indian Institute of Science, Bangalore, India
+      year: 2019
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Implemented authenticated Diffie-Hellman key exchange protocol with perfect forward secrecy. The algorithm uses a prime order subgroup generator instead of the traditional primitive root. The implementation was found to be around 8 times faster than the conventional method without compromising on security.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - “Going above and beyond” connected recognition for delivering operational excellence at Cisco
+    - year: 2021
       items:
-        - Max Planck Medal
+        - Certificate of appreciation from the Manipal Institute of Technology
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
