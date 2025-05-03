@@ -21,9 +21,9 @@
       institution: Cisco Systems, Bangalore, India
       year: 2021 - 2023
       description:
-        - Led the development of a self-service application using Python and JavaScript that automates database administrator steps performed before and after OS is upgraded/patched on 300+ on-prem hosts. Incorporated various workflows for ERP and FMW Oracle databases. Eliminated manual efforts and brought down the overall time consumed by 40%.
-        - Developed dynamic backend APIs for more accessible analytics and visualization to understand various metrics agreed upon in the service level agreement. The dashboard enables real-time access to key performance indicators such as incident resolution times and provides insights on previously cluttered data.
-        - Spearheaded enhancement of three applications to accommodate the new multitenant architecture in Oracle databases. Maintained Apache, Redis, Flask, and corresponding CI/CD pipelines and infrastructure that accelerated the team’s deployments.
+        -  Led the development of a self-service application using Python and JavaScript that automates database administrator steps performed during OS upgrade on 300+ on-prem hosts. Lowered the overall time consumed from 4 hours to 15 minutes, achieving cost savings exceeding $300K annually.
+        - Built RESTful APIs that powered a real-time SLA analytics dashboard (p99 latency less than 100 ms). The tool enabled access to key performance indicators such as MTTR and incident density across 2500 monthly tickets, enhancing operational decision-making.
+        - Spearheaded the enhancement of three applications to accommodate the new multi-tenant architecture in Oracle databases. Maintained Apache, Redis, Flask, and corresponding CI/CD pipelines that accelerated the deployments.
     - title: Technical Intern
       institution: Cisco Systems, Bangalore, India
       year: 2021
