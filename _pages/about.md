@@ -22,7 +22,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey, I'm Vishal! I'm currently diving into my **MS in Computer Science** at the [University of Minnesota](https://cse.umn.edu/cs). Before that, I spent a couple of years at [Cisco](https://www.cisco.com/) as a **Software Engineer (Site Reliability)**, where I built **self-service web applications** that automated Oracle database tasks—cutting manual effort, reducing execution time, and scaling the number of databases under the team's management. I also maintained and optimized the team's **development infrastructure**, improving **CI/CD pipelines**, managing **Apache web servers**, and in-house **Sentinel Redis**.  
+Hey, I'm Vishal! I'm currently diving into my **MS in Computer Science** at the [University of Minnesota](https://cse.umn.edu/cs). Before that, I spent a couple of years at [Cisco](https://www.cisco.com/) as a **Software Engineer (Site Reliability)**, where I built **self-service web applications** that automated Oracle database tasks that cut manual effort, reduced execution time, and helped scale the number of databases under the team's management. I also maintained and optimized the team's **development infrastructure**, improving **CI/CD pipelines**, managing **Apache web servers**, and in-house **Sentinel Redis**.  
 
 At UMN, I'm exploring **Machine Learning**, with a focus on **Graph Neural Networks**. Beyond coursework in **Cloud Computing, NLP, and AI**, I also served as a **Teaching Assistant** for [Computational Biology](https://sites.google.com/umn.edu/biol3004/research-areas/computational-microbiology?authuser=0) and [Machine Learning for Healthcare](https://yoga-varatha.github.io/ml4health-umn/).  
 
